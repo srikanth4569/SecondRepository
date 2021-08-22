@@ -15,7 +15,7 @@ public class MyFirstJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Changing Sysout message");
+        System.out.println("Changing Sysout Message Modified");
         // TODO code application logic here
     }
     
